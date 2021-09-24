@@ -1,0 +1,37 @@
+body{
+    /* background: rgb(4, 102, 73); */
+    background: rgb(243, 243, 247);
+    background-size: cover;
+}
+
+
+
+.disabledList{
+    
+    pointer-events:none; 
+    opacity:0.8;        
+
+}
+
+#todoList{
+    border: 5px solid rgba(65, 80, 214, 0.5);
+    border-radius: 1rem;
+}
+
+#mainnavbar{
+    background: rgba(17, 95, 52, 0.8);
+}
+.app{
+    font-family: 'Archivo Black';
+    font-weight: bold;
+    font-size: 16px;
+}
+#logOut{
+    font-family: 'Archivo Black';
+    font-weight: bold;
+    font-size: 16px;
+}
+#welcomeText{
+    color:rgb(27, 59, 27);
+    font-family: 'Archivo Black';
+}
